@@ -1,0 +1,1 @@
+.\target\debug\service-diff.exe -c=4 --old-url=http://127.0.0.1:8080/echo --new-url=http://127.0.0.1:8080/echo --request-method=GET --replay-log-path=./data/get_request.data

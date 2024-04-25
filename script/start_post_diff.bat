@@ -1,0 +1,1 @@
+.\target\debug\service-diff.exe --old-url=http://127.0.0.1:8080/login --new-url=http://127.0.0.1:8080/login --request-method=POST --replay-log-path=./data/post_request.data
